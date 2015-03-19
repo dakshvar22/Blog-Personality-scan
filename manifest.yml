@@ -1,0 +1,8 @@
+applications:
+- disk_quota: 1024M
+  host: bloginsightsDaksh
+  name: BlogInsightsbyDaksh
+  path: .
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M
